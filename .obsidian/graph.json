@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#literature_notes",
+      "color": {
+        "a": 1,
+        "rgb": 11006263
+      }
+    },
+    {
+      "query": "tag:#eternal",
+      "color": {
+        "a": 1,
+        "rgb": 5343974
+      }
+    },
+    {
+      "query": "file:qq_",
+      "color": {
+        "a": 1,
+        "rgb": 15961303
+      }
+    },
+    {
+      "query": "tag:#literature",
+      "color": {
+        "a": 1,
+        "rgb": 16759552
+      }
+    },
+    {
+      "query": "tag:#project",
+      "color": {
+        "a": 1,
+        "rgb": 11230422
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -2.5,
+  "nodeSizeMultiplier": 1.37361111111111,
+  "lineSizeMultiplier": 1.68472222222222,
+  "collapse-forces": false,
+  "centerStrength": 0.188492063492064,
+  "repelStrength": 6.46825396825397,
+  "linkStrength": 1,
+  "linkDistance": 165,
+  "scale": 0.41875981546493746,
+  "close": true
+}

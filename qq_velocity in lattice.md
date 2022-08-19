@@ -1,0 +1,1 @@
+velocity in lattice? 

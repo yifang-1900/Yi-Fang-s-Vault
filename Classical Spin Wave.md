@@ -1,0 +1,1 @@
+For classical model, we can get dispersion relation just like phonon([[1D Diatomic Chain#^133599]]).
